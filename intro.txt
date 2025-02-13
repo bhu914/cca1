@@ -1,5 +1,5 @@
 hellooooo
-Why should you learn to write programs?
+Why should you learn to write programs? ok then@@
 
 Writing programs (or programming) is a very creative 
 and rewarding activity.  You can write programs for 
@@ -279,6 +279,7 @@ to say good-bye when interacting with the inhabitants
 of Planet Python:
 
 You will notice that the error is different for the first two
+  ok i have changed in folder
 incorrect attempts.   The second error is different because 
 if is a reserved word and Python saw the reserved word
 and thought we were trying to say something but got the syntax
